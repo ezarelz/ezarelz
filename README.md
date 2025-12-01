@@ -18,9 +18,6 @@
 
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="https://t.me/yourtelegramusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" width="40px"/>
-  </a>
   <a href="https://linkedin.com/in/manggala-eleazar-ezar/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40px"/>
   </a>
