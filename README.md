@@ -50,8 +50,8 @@ Front-end built with React + TS and backend with secure API architecture.
 Clean architecture, TypeScript API, Swagger docs, and modular routes.  
 🔗 Repo: https://github.com/ezarelz/todolist-with-swagger-api
 
-### 🏠 **Kostentram (Frontend + Backend)**  
-Fullstack modern web app for kost/room management.  
+### 🏠 **Kostentram**  
+Fullstack modern web app for kost/room landing page.  
 🔗 FE: https://github.com/ezarelz/fe-kostentram  
 🔗 BE: https://github.com/ezarelz/backend-kostentram
 
