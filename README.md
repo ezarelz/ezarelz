@@ -21,10 +21,10 @@
   <a href="https://t.me/yourtelegramusername" target="_blank">
     <img src="https://skillicons.dev/icons?i=telegram" width="40px"/>
   </a>
-  <a href="https://linkedin.com/in/ezarelz" target="_blank">
+  <a href="https://linkedin.com/in/manggala-eleazar-ezar/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40px"/>
   </a>
-  <a href="https://instagram.com/ezarelz" target="_blank">
+  <a href="https://instagram.com/ezar.elz" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40px"/>
   </a>
 </p>
@@ -57,14 +57,6 @@ Clean architecture, TypeScript API, Swagger docs, and modular routes.
 Fullstack modern web app for kost/room management.  
 🔗 FE: https://github.com/ezarelz/fe-kostentram  
 🔗 BE: https://github.com/ezarelz/backend-kostentram
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezarelz&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezarelz&layout=compact&theme=tokyonight" height="165" />
-</p>
 
 ---
 
